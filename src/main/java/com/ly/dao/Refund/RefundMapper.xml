@@ -32,7 +32,7 @@
         select r.orderId orderId,r.figureImage figureImage,r.refundType refundType,r.refundReason refundReason,
                r.refundTime refundTime,r.refundStatus refundStatus,o.userid userid,o.figureId figureId,
                o.deliveryStatus deliveryStatus,o.isreceive isreceive,f.figureName figureName,u.username username
-        from refund r,order o,figure f,user u
+        from refund r, `order` o,figure f,user u
         where r.orderId=o.orderId and o.figureId=f.figureId and o.userid=u.userid
     </select>
     <resultMap id="allRefund" type="com.ly.pojo.Refund">
