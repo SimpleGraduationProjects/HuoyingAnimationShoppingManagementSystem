@@ -152,8 +152,8 @@
                   </div>
                   <div class="shouyebottom">
                       <p>QQ：287813722</p>
-                      <p>QQ-email：<a href="mailto:287813722@qq.com">287813722@qq.com</a></p>
-                      <p>VX：_1Y-faith（现）</p>
+                      <p>QQ-email：<a href="mailto:28781*****@qq.com">28781*****@qq.com</a></p>
+                      <p>VX：_1Y-*****（现）</p>
                       <p>喜欢火影的小伙伴可以一起做哦!</p>
                   </div>
               </div>
